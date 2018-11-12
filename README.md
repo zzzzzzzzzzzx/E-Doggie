@@ -35,3 +35,7 @@
 [ESP32环境搭建(arduino)](https://blog.csdn.net/qq_35174914/article/details/79328043)
 
 [平衡小车与电机PID系列视频教程](http://training.eeworld.com.cn/video/14838)
+
+![image](https://github.com/zzzzzzzzzzzx/E-Doggie/blob/master/breadboard.jpg)
+
+面包板的使用出乎我们的意料，下次一定要注意！
